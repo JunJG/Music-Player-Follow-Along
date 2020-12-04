@@ -55,6 +55,13 @@ h3 {
   margin: 5px 0 0;
 }
 
+h6 {
+  font-size: 10px;
+  text-align: center;
+  font-weight: 100;
+  margin: 5px 0 0;
+}
+
 /* Progress */
 .progress-container {
   background: #fff;
